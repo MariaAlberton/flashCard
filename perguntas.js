@@ -1,13 +1,13 @@
 criaCartao(
     'Cores',
-    'Quais são as cores primárias?',
-    'Vermelho, azul e amarelo'
+    'Quais são as cores quentes?',
+    'Vermelho, amarelo, laranja, rosa'
     )
     
     criaCartao(
     'Conhecimentos gerais',
-    'Quantas pessoas há no mundo?',
-    'No mundo há 8,025 bilhões'
+    'Onde foi inventado o chuveiro?',
+    'foi inventado no Brasil'
     )
     
     criaCartao(
@@ -17,6 +17,6 @@ criaCartao(
     )
     criaCartao(
     'História',
-    'Quem descobriu o Brasil?',
-    'Pedro Álvares Cabral'
+    'qual foi o filosofo mais inteligente que existiu?',
+    'Willian James Sidis'
     )
